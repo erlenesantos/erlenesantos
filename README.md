@@ -1,7 +1,7 @@
-### Olá, me chamo Eduardo 🖐️
+### Olá, me chamo Erlene 🖐️
 
 <div align="center">
-  <a href="https://github.com/eduardo-559">
+  <a href="https://github.com/erlenesantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-559&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-559&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -30,12 +30,11 @@
 ### Entre em contato comigo:
   
 <div> 
-  <a href="https://www.linkedin.com/in/eduardo-sousa10" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 	<a href="https://eduardosousa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/eduardo.ls_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erlenesantos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/erlene.santoss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send/?phone=5588997135243&text=Ol%C3%A1%2C+Eduardo%21&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/eduardo_oliveira01" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduduardo2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/erleneds" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:erlenesantos@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 
 [![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
